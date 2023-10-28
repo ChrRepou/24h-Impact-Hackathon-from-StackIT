@@ -1,0 +1,19 @@
+#food-img {
+	height: 50%;
+	width: 30% !important;
+}
+
+.desc {
+	margin-left: 10px;;
+}
+
+.badge {
+	color: white !important;
+	background-color: green !important;
+	font-size: small;
+}
+
+.label {
+	background-color: grey !important;
+	font-size: 90% !important;
+}

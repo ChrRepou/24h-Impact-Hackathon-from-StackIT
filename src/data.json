@@ -1,0 +1,756 @@
+{
+	"ort": "Mensa Bildungscampus Heilbronn",
+	"tagesplan": [
+	  {
+		"tag": "Montag",
+		"datum": "23.10.2023",
+		"linie": [
+		  {
+			"ausgabe": "Vegetarisch",
+			"gericht": [
+			  {
+				"text": "Hausgemachte Pasta in cremiger Zucchini-Fetasoße, dazu Karottensalat",
+				"text_en": "Homemade pasta in a creamy zucchini-feta sauce, with carrot salad",
+				"studi": "2.90",
+				"bed": "4.35",
+				"gast": "7.25",
+				"prodart": "186"
+			  }
+			]
+		  }
+		]
+	  },
+	  {
+		"tag": "Dienstag",
+		"datum": "24.10.2023",
+		"linie": [
+		  {
+			"ausgabe": "Dessert",
+			"gericht": [
+			  {
+				"text": "Marzipan-Mousse mit Bratapfel",
+				"text_en": "Marzipan mousse with baked apple",
+				"studi": "0.75",
+				"bed": "1.15",
+				"gast": "1.90",
+				"prodart": "37"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Dessert vegan",
+			"gericht": [
+			  {
+				"text": "Kirsch-Zwieback-Trifle",
+				"text_en": "Cherry rusk trifle",
+				"studi": "0.75",
+				"bed": "1.15",
+				"gast": "1.90",
+				"prodart": "37"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Suppentopf",
+			"gericht": [
+			  {
+				"text": "Vegane Spinatcremesuppe mit Mandelmilch",
+				"text_en": "Vegan spinach cream soup with almond milk",
+				"studi": "0.55",
+				"bed": "0.85",
+				"gast": "1.40",
+				"prodart": "31"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Tierisch",
+			"gericht": [
+			  {
+				"text": "Putengyros mit geschmorten Zwiebeln, Djuvecreis und Joghurt-Knoblauchdip",
+				"text_en": "poultry gyros with braised onions, Djuvec rice and yogurt-garlic dip",
+				"studi": "0.92",
+				"bed": "1.20",
+				"gast": "1.94",
+				"prodart": "230"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Vegan",
+			"gericht": [
+			  {
+				"text": "Ragout vom Kürbis und Broccoli in veganem Rahm mit Langkornreis, dazu Stückobst",
+				"text_en": "Pumpkin and broccoli ragout in vegan cream with long grain rice, served with pieces of fruit",
+				"studi": "2.90",
+				"bed": "4.35",
+				"gast": "7.25",
+				"prodart": "186"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Vegetarisch",
+			"gericht": [
+			  {
+				"text": "Gemüseknödel in Gorgonzolarahm, karamelisierten Selleriewürfeln und Erbsen",
+				"text_en": "Vegetable dumplings in Gorgonzola cream, caramelized celery cubes and peas",
+				"studi": "0.92",
+				"bed": "1.20",
+				"gast": "1.94",
+				"prodart": "230"
+			  }
+			]
+		  }
+		]
+	  },
+	  {
+		"tag": "Mittwoch",
+		"datum": "25.10.2023",
+		"linie": [
+		  {
+			"ausgabe": "Dessert",
+			"gericht": [
+			  {
+				"text": "Handgerührter Waldbeerenpudding",
+				"text_en": "hand-stirred wild berry pudding",
+				"studi": "0.75",
+				"bed": "1.15",
+				"gast": "1.90",
+				"prodart": "37"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Dessert vegan",
+			"gericht": [
+			  {
+				"text": "Spekulatiuscreme mit Birnenragout",
+				"text_en": "Speculoos cream with pear ragout",
+				"studi": "0.75",
+				"bed": "1.15",
+				"gast": "1.90",
+				"prodart": "37"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Suppentopf",
+			"gericht": [
+			  {
+				"text": "Tomatierte Gemüsebrühe mit gerösteten Kichererbsen",
+				"text_en": "Tomato vegetable broth with roasted chickpeas",
+				"studi": "0.55",
+				"bed": "0.85",
+				"gast": "1.40",
+				"prodart": "31"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Tierisch",
+			"gericht": [
+			  {
+				"text": "Pochierter Rotbarsch auf Wurzelgemüsejulienne und Kürbis-Kartoffelpüree, dazu Schmorkohl",
+				"text_en": "Poached redfish on julienne root vegetables and pumpkin mashed potatoes, with braised cabbage",
+				"studi": "0.92",
+				"bed": "1.20",
+				"gast": "1.94",
+				"prodart": "230"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Vegan",
+			"gericht": [
+			  {
+				"text": "Geschmorte Paprika mit Zwiebeln und Tomate, dazu hausgemachte Pasta und Blattsalat",
+				"text_en": "Braised peppers with onions and tomatoes, served with homemade pasta and lettuce",
+				"studi": "2.90",
+				"bed": "4.35",
+				"gast": "7.25",
+				"prodart": "186"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Vegetarisch",
+			"gericht": [
+			  {
+				"text": "Gebackene Drillinge mit Kräuterquark und hausgemachtem Gemüseküchle",
+				"text_en": "Baked triplets with herb quark and homemade vegetable cakes",
+				"studi": "0.92",
+				"bed": "1.20",
+				"gast": "1.94",
+				"prodart": "230"
+			  }
+			]
+		  }
+		]
+	  },
+	  {
+		"tag": "Donnerstag",
+		"datum": "26.10.2023",
+		"linie": [
+		  {
+			"ausgabe": "Dessert",
+			"gericht": [
+			  {
+				"text": "Creme von Mascarpone, Mandarine und Bisquit",
+				"text_en": "Cream of mascarpone, tangerine and sponge cake",
+				"studi": "0.75",
+				"bed": "1.15",
+				"gast": "1.90",
+				"prodart": "37"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Dessert vegan",
+			"gericht": [
+			  {
+				"text": "Orientalischer Couscous mit Rosinen und gerösteten Nüssen",
+				"text_en": "Oriental couscous with raisins and roasted nuts",
+				"studi": "0.75",
+				"bed": "1.15",
+				"gast": "1.90",
+				"prodart": "37"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Suppentopf",
+			"gericht": [
+			  {
+				"text": "Paprika-Kartoffeltopf mit Schnittlauch",
+				"text_en": "Paprika and potato stew with chives",
+				"studi": "0.55",
+				"bed": "0.85",
+				"gast": "1.40",
+				"prodart": "31"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Tierisch",
+			"gericht": [
+			  {
+				"text": "Hausgemachte Frikadelle vom heimischen Weiderind in Waldpilzrahm und Spätzle",
+				"text_en": "Homemade meatball from local pastured beef in wild mushroom cream and Spätzle",
+				"studi": "0.92",
+				"bed": "1.20",
+				"gast": "1.94",
+				"prodart": "230"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Vegan",
+			"gericht": [
+			  {
+				"text": "Jackfruit-Edamame BBQ auf Tortillachips und Sour Cream, dazu Stückobst",
+				"text_en": "Jackfruit-Edamame BBQ on tortilla chips and sour cream, with pieces of fruit",
+				"studi": "2.90",
+				"bed": "4.35",
+				"gast": "7.25",
+				"prodart": "186"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Vegetarisch",
+			"gericht": [
+			  {
+				"text": "Gratinierter Chicoree-Radicchio-Auflauf mit Kartoffeln und Schafskäse",
+				"text_en": "Gratinated chicory and radicchio casserole with potatoes and sheep's cheese",
+				"studi": "0.92",
+				"bed": "1.20",
+				"gast": "1.94",
+				"prodart": "230"
+			  }
+			]
+		  }
+		]
+	  },
+	  {
+		"tag": "Freitag",
+		"datum": "27.10.2023",
+		"linie": [
+		  {
+			"ausgabe": "Dessert",
+			"gericht": [
+			  {
+				"text": "Karamelcreme mit Crunch und Schoko",
+				"text_en": "Caramel cream with crunch and chocolate",
+				"studi": "0.75",
+				"bed": "1.15",
+				"gast": "1.90",
+				"prodart": "37"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Dessert vegan",
+			"gericht": [
+			  {
+				"text": "Vanillepudding mit Kürbiskompott",
+				"text_en": "Vanilla pudding with pumpkin compote",
+				"studi": "0.75",
+				"bed": "1.15",
+				"gast": "1.90",
+				"prodart": "37"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Suppentopf",
+			"gericht": [
+			  {
+				"text": "Feine Pilzcremesuppe mit Brotchips",
+				"text_en": "Fine mushroom cream soup with bread chips",
+				"studi": "0.55",
+				"bed": "0.85",
+				"gast": "1.40",
+				"prodart": "31"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Tierisch",
+			"gericht": [
+			  {
+				"text": "Paniertes Schollenfilet mit Bratkartoffeln und Lauchrahm",
+				"text_en": "Breaded plaice fillet with fried potatoes and leek cream",
+				"studi": "0.92",
+				"bed": "1.20",
+				"gast": "1.94",
+				"prodart": "230"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Vegan",
+			"gericht": [
+			  {
+				"text": "Herbstliches Ofengemüse mit Bohnenpüree und würzigem Pesto, dazu Stückobst",
+				"text_en": "Autumnal oven-baked vegetables with bean puree and spicy pesto, served with pieces of fruit",
+				"studi": "2.90",
+				"bed": "4.35",
+				"gast": "7.25",
+				"prodart": "186"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Vegetarisch",
+			"gericht": [
+			  {
+				"text": "Geröstete Gemüsemaultaschen mit Zwiebelschmelz und Kartoffelsalat",
+				"text_en": "Roasted vegetable dumplings with melted onions and potato salad",
+				"studi": "0.92",
+				"bed": "1.20",
+				"gast": "1.94",
+				"prodart": "230"
+			  }
+			]
+		  }
+		]
+	  },
+	  {
+		"tag": "Samstag",
+		"datum": "28.10.2023",
+		"text": "geschlossen"
+	  },
+	  {
+		"tag": "Sonntag",
+		"datum": "29.10.2023",
+		"text": "geschlossen"
+	  },
+	  {
+		"tag": "Montag",
+		"datum": "30.10.2023",
+		"linie": [
+		  {
+			"ausgabe": "Dessert",
+			"gericht": [
+			  {
+				"text": "Sahnequark mit karamelisierten Pfefferkirschen und Minze",
+				"text_en": "Sahnequark mit karamelisierten Pfefferkirschen und Minze",
+				"studi": "0.75",
+				"bed": "1.15",
+				"gast": "1.90",
+				"prodart": "37"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Dessert vegan",
+			"gericht": [
+			  {
+				"text": "Veganer Schokopudding mit Beerenkompott",
+				"text_en": "Veganer Schokopudding mit Beerenkompott",
+				"studi": "0.75",
+				"bed": "1.15",
+				"gast": "1.90",
+				"prodart": "37"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Suppentopf",
+			"gericht": [
+			  {
+				"text": "Tomaten-Hafer-Suppe mit Gemüsewürfel",
+				"text_en": "Tomaten-Hafer-Suppe mit Gemüsewürfel",
+				"studi": "0.55",
+				"bed": "0.85",
+				"gast": "1.40",
+				"prodart": "31"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Tierisch",
+			"gericht": [
+			  {
+				"text": "Gyros vom Hällischem Landschwein mit Tzatziki und Kartoffelwedges",
+				"text_en": "Gyros vom Hällischem Landschwein mit Tzatziki und Kartoffelwedges",
+				"studi": "0.92",
+				"bed": "1.20",
+				"gast": "1.94",
+				"prodart": "230"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Vegan",
+			"gericht": [
+			  {
+				"text": "Bohnen-Gemüse-Ragout mit Zartweizen, Blattsalat",
+				"text_en": "Bohnen-Gemüse-Ragout mit Zartweizen, Blattsalat",
+				"studi": "2.90",
+				"bed": "4.35",
+				"gast": "7.25",
+				"prodart": "186"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Vegetarisch",
+			"gericht": [
+			  {
+				"text": "Blumenkohl-Kartoffel-Auflauf in Bechamelrahm",
+				"text_en": "Blumenkohl-Kartoffel-Auflauf in Bechamelrahm",
+				"studi": "0.92",
+				"bed": "1.20",
+				"gast": "1.94",
+				"prodart": "230"
+			  }
+			]
+		  }
+		]
+	  },
+	  {
+		"tag": "Dienstag",
+		"datum": "31.10.2023",
+		"linie": [
+		  {
+			"ausgabe": "Dessert",
+			"gericht": [
+			  {
+				"text": "Hausgemachte Butterkeks-Creme und Karameltopping",
+				"text_en": "Hausgemachte Butterkeks-Creme und Karameltopping",
+				"studi": "0.75",
+				"bed": "1.15",
+				"gast": "1.90",
+				"prodart": "37"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Dessert vegan",
+			"gericht": [
+			  {
+				"text": "Orientalischer Gewürzpudding mit Granatapfel und Ahornsirup",
+				"text_en": "Orientalischer Gewürzpudding mit Granatapfel und Ahornsirup",
+				"studi": "0.75",
+				"bed": "1.15",
+				"gast": "1.90",
+				"prodart": "37"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Suppentopf",
+			"gericht": [
+			  {
+				"text": "Cremesüppchen vom Blumenkohl mit Curry",
+				"text_en": "Cremesüppchen vom Blumenkohl mit Curry",
+				"studi": "0.55",
+				"bed": "0.85",
+				"gast": "1.40",
+				"prodart": "31"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Tierisch",
+			"gericht": [
+			  {
+				"text": "Pochiertes Welsfilet auf Tomaten-Olivensugo und Zitronen-Couscous",
+				"text_en": "Pochiertes Welsfilet auf Tomaten-Olivensugo und Zitronen-Couscous",
+				"studi": "0.92",
+				"bed": "1.20",
+				"gast": "1.94",
+				"prodart": "230"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Vegan",
+			"gericht": [
+			  {
+				"text": "Frühlingsrolle mit Sweet-Chili-Sauce und Langkornreis, dazu Stückobst",
+				"text_en": "Frühlingsrolle mit Sweet-Chili-Sauce und Langkornreis, dazu Stückobst",
+				"studi": "2.90",
+				"bed": "4.35",
+				"gast": "7.25",
+				"prodart": "186"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Vegetarisch",
+			"gericht": [
+			  {
+				"text": "Zucchini-Basilikum-Pasta mit Hirtenkäse",
+				"text_en": "Zucchini-Basilikum-Pasta mit Hirtenkäse",
+				"studi": "0.92",
+				"bed": "1.20",
+				"gast": "1.94",
+				"prodart": "230"
+			  }
+			]
+		  }
+		]
+	  },
+	  {
+		"tag": "Mittwoch",
+		"datum": "01.11.2023",
+		"text": "geschlossen"
+	  },
+	  {
+		"tag": "Donnerstag",
+		"datum": "02.11.2023",
+		"linie": [
+		  {
+			"ausgabe": "Dessert",
+			"gericht": [
+			  {
+				"text": "Hausgemachtes Tiramisu im Glas",
+				"text_en": "Hausgemachtes Tiramisu im Glas",
+				"studi": "0.75",
+				"bed": "1.15",
+				"gast": "1.90",
+				"prodart": "37"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Dessert vegan",
+			"gericht": [
+			  {
+				"text": "Haferjoghurt mit Mango und Chilistaub",
+				"text_en": "Haferjoghurt mit Mango und Chilistaub",
+				"studi": "0.75",
+				"bed": "1.15",
+				"gast": "1.90",
+				"prodart": "37"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Suppentopf",
+			"gericht": [
+			  {
+				"text": "Asiatische Ramensuppe",
+				"text_en": "Asiatische Ramensuppe",
+				"studi": "0.55",
+				"bed": "0.85",
+				"gast": "1.40",
+				"prodart": "31"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Tierisch",
+			"gericht": [
+			  {
+				"text": "Zarter Putenrollbraten in eigener Soße mit rustikalem Gemüse und Serviettenknödel",
+				"text_en": "Zarter Putenrollbraten in eigener Soße mit rustikalem Gemüse und Serviettenknödel",
+				"studi": "0.92",
+				"bed": "1.20",
+				"gast": "1.94",
+				"prodart": "230"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Vegan",
+			"gericht": [
+			  {
+				"text": "Gelbes Curry mit Kokos und Gemüse, dazu Rosinen-Couscous",
+				"text_en": "Gelbes Curry mit Kokos und Gemüse, dazu Rosinen-Couscous",
+				"studi": "0.92",
+				"bed": "1.20",
+				"gast": "1.94",
+				"prodart": "230"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Vegetarisch",
+			"gericht": [
+			  {
+				"text": "Pasta mit geschmorten Rübenallerlei in Knochlauchrahm,gerösteteten Sonnenblumenkernen, Stückobst",
+				"text_en": "Pasta mit geschmorten Rübenallerlei in Knochlauchrahm,gerösteteten Sonnenblumenkernen, Stückobst",
+				"studi": "2.90",
+				"bed": "4.35",
+				"gast": "7.25",
+				"prodart": "186"
+			  }
+			]
+		  }
+		]
+	  },
+	  {
+		"tag": "Freitag",
+		"datum": "03.11.2023",
+		"linie": [
+		  {
+			"ausgabe": "Dessert",
+			"gericht": [
+			  {
+				"text": "Klassischer Grießbrei mit Apfelmus",
+				"text_en": "Klassischer Grießbrei mit Apfelmus",
+				"studi": "0.75",
+				"bed": "1.15",
+				"gast": "1.90",
+				"prodart": "37"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Dessert vegan",
+			"gericht": [
+			  {
+				"text": "Chiapudding mit Mandelmilch und frischem Obst",
+				"text_en": "Chiapudding mit Mandelmilch und frischem Obst",
+				"studi": "0.75",
+				"bed": "1.15",
+				"gast": "1.90",
+				"prodart": "37"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Suppentopf",
+			"gericht": [
+			  {
+				"text": "Gekräuterte Maiscremesuppe und Brotchips",
+				"text_en": "Gekräuterte Maiscremesuppe und Brotchips",
+				"studi": "0.55",
+				"bed": "0.85",
+				"gast": "1.40",
+				"prodart": "31"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Tierisch",
+			"gericht": [
+			  {
+				"text": "Gebackener Seehecht auf mediteranem Gemüse und hausgemachter Pasta",
+				"text_en": "Gebackener Seehecht auf mediteranem Gemüse und hausgemachter Pasta",
+				"studi": "0.92",
+				"bed": "1.20",
+				"gast": "1.94",
+				"prodart": "230"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Vegan",
+			"gericht": [
+			  {
+				"text": "Asia-Bowl mit marniertem Glasnudelsalat, buntem Gemüse und gebackenem Sesam-Karottenstick und Stückobst",
+				"text_en": "Asia-Bowl mit marniertem Glasnudelsalat, buntem Gemüse und gebackenem Sesam-Karottenstick und Stückobst",
+				"studi": "2.90",
+				"bed": "4.35",
+				"gast": "7.25",
+				"prodart": "186"
+			  }
+			]
+		  },
+		  {
+			"ausgabe": "Vegetarisch",
+			"gericht": [
+			  {
+				"text": "Hausgemachte Pasta in Erdnußbuttersauce und Zitrone",
+				"text_en": "Hausgemachte Pasta in Erdnußbuttersauce und Zitrone",
+				"studi": "0.92",
+				"bed": "1.20",
+				"gast": "1.94",
+				"prodart": "230"
+			  }
+			]
+		  }
+		]
+	  },
+	  {
+		"tag": "Samstag",
+		"datum": "04.11.2023",
+		"text": "geschlossen"
+	  },
+	  {
+		"tag": "Sonntag",
+		"datum": "05.11.2023",
+		"text": "geschlossen"
+	  },
+	  {
+		"tag": "Montag",
+		"datum": "06.11.2023",
+		"text": "geschlossen"
+	  },
+	  {
+		"tag": "Dienstag",
+		"datum": "07.11.2023",
+		"text": "geschlossen"
+	  },
+	  {
+		"tag": "Mittwoch",
+		"datum": "08.11.2023",
+		"text": "geschlossen"
+	  },
+	  {
+		"tag": "Donnerstag",
+		"datum": "09.11.2023",
+		"text": "geschlossen"
+	  },
+	  {
+		"tag": "Freitag",
+		"datum": "10.11.2023",
+		"text": "geschlossen"
+	  },
+	  {
+		"tag": "Samstag",
+		"datum": "11.11.2023",
+		"text": "geschlossen"
+	  },
+	  {
+		"tag": "Sonntag",
+		"datum": "12.11.2023",
+		"text": "geschlossen"
+	  }
+	]
+  }

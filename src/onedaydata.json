@@ -1,0 +1,84 @@
+{
+    "tag": "Dienstag",
+    "datum": "24.10.2023",
+    "linie": [
+        {
+            "ausgabe": "Dessert",
+            "gericht": [
+                {
+                    "text": "Marzipan-Mousse mit Bratapfel",
+                    "text_en": "Marzipan mousse with baked apple",
+                    "studi": "0.75",
+                    "bed": "1.15",
+                    "gast": "1.90",
+                    "prodart": "37"
+                }
+            ]
+        },
+        {
+            "ausgabe": "Dessert vegan",
+            "gericht": [
+                {
+                    "text": "Kirsch-Zwieback-Trifle",
+                    "text_en": "Cherry rusk trifle",
+                    "studi": "0.75",
+                    "bed": "1.15",
+                    "gast": "1.90",
+                    "prodart": "37"
+                }
+            ]
+        },
+        {
+            "ausgabe": "Suppentopf",
+            "gericht": [
+                {
+                    "text": "Vegane Spinatcremesuppe mit Mandelmilch",
+                    "text_en": "Vegan spinach cream soup with almond milk",
+                    "studi": "0.55",
+                    "bed": "0.85",
+                    "gast": "1.40",
+                    "prodart": "31"
+                }
+            ]
+        },
+        {
+            "ausgabe": "Tierisch",
+            "gericht": [
+                {
+                    "text": "Putengyros mit geschmorten Zwiebeln, Djuvecreis und Joghurt-Knoblauchdip",
+                    "text_en": "poultry gyros with braised onions, Djuvec rice and yogurt-garlic dip",
+                    "studi": "0.92",
+                    "bed": "1.20",
+                    "gast": "1.94",
+                    "prodart": "230"
+                }
+            ]
+        },
+        {
+            "ausgabe": "Vegan",
+            "gericht": [
+                {
+                    "text": "Ragout vom Kürbis und Broccoli in veganem Rahm mit Langkornreis, dazu Stückobst",
+                    "text_en": "Pumpkin and broccoli ragout in vegan cream with long grain rice, served with pieces of fruit",
+                    "studi": "2.90",
+                    "bed": "4.35",
+                    "gast": "7.25",
+                    "prodart": "186"
+                }
+            ]
+        },
+        {
+            "ausgabe": "Vegetarisch",
+            "gericht": [
+                {
+                    "text": "Gemüseknödel in Gorgonzolarahm, karamelisierten Selleriewürfeln und Erbsen",
+                    "text_en": "Vegetable dumplings in Gorgonzola cream, caramelized celery cubes and peas",
+                    "studi": "0.92",
+                    "bed": "1.20",
+                    "gast": "1.94",
+                    "prodart": "230"
+                }
+            ]
+        }
+    ]
+}
